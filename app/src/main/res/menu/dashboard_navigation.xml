@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard_candidatura"
+        android:enabled="true"
+        android:icon="@drawable/ic_calendar"
+        android:title="@string/dashboard_calendario"/>
+    <item
+        android:id="@+id/dashboard_votacao"
+        android:enabled="true"
+        android:icon="@drawable/ic_agenda"
+        android:title="@string/dashbord_agenda"/>
+    <item
+        android:id="@+id/dashboard_pagamento"
+        android:enabled="true"
+        android:icon="@drawable/ic_support"
+        android:title="@string/dashboard_configuracoes"/>
+</menu>

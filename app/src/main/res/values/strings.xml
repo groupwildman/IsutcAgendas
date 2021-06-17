@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IsutcAgendas</string>
+    <string name="dashboard_calendario">Calendário</string>
+    <string name="dashbord_agenda">Agenda</string>
+    <string name="dashboard_configuracoes">Configurações</string>
+    <string name="monday">2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_event">Adicionar evento</string>
+    <string name="evento_tipo">Tipo de Evento</string>
+    <string name="add_evento_cancelar">Cancelar</string>
+    <string name="add_evento_salvar">Salvar</string>
+    <string name="voltar">Voltar</string>
+    <string name="guardar">Guardar</string>
+    <string name="preencher_campos">Por favor preencha todos campos</string>
+    <string name="inserir_valid_data">Insira data valida</string>
+    <string name="erro_cadastro">Erro no cadastro. Tente novamente</string>
+    <string name="sdf_input">EEE, d MMM yyyy HH:mm</string>
+    <string name="sdf_calendar_seletion">dd MM yyyy</string>
+    <string name="error">Erro por favor contactar adminstrador</string>
+    <string name="_null" />
+    <string name="event_modified">Evento modificado com sucesso</string>
+    <string name="event_modified_failed">Nao foi possivel modificar o seu evento. Conflito de datas.</string>
+</resources>
